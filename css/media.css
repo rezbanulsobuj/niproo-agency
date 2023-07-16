@@ -1,0 +1,1007 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /* header start */
+    header {
+        padding: 5px 0px;
+    }
+
+    .dropdown-menu[data-bs-popper] {
+        top: 51px;
+        left: 0px;
+        margin-top: 0px;
+    }
+
+    .sddm {
+        --bs-dropdown-min-width: 254px;
+        --bs-dropdown-padding-x: 20px;
+        --bs-dropdown-padding-y: 10px;
+    }
+
+    /* header end */
+
+
+    /* slider start */
+    .c_slider {
+        margin: 100px 0px
+    }
+
+    .c_slider h1 {
+        font-size: 25px;
+    }
+
+    .c_slider p {
+        margin: 30px 0px 40px;
+        line-height: 22px;
+    }
+
+    .c_slider button {
+        width: 150px;
+        height: 40px;
+    }
+
+    /* slider end */
+
+
+
+
+    /* service start */
+    .c_style {
+        height: 40px;
+        margin-bottom: 12px;
+    }
+
+    .c_h1 {
+        font-size: 25px;
+    }
+
+    /* service end */
+
+
+    /* single service start */
+    .service {
+        padding-bottom: 60px;
+    }
+
+    .s_icon {
+        width: 65px;
+        margin: -21px auto 17px;
+        background-color: white;
+    }
+
+    .s_service {
+        margin-top: 45px;
+        padding: 0px 15px 30px;
+    }
+
+    /* single service end */
+
+
+
+
+    /* about section start */
+    .about {
+        padding-bottom: 50px;
+    }
+
+    .about_img img {
+        display: none;
+    }
+
+    .s_about {
+        text-align: center;
+    }
+
+    .s_about h1 {
+        font-size: 25px;
+    }
+
+    .s_about p {
+        margin: 30px 0px 40px;
+    }
+
+    .s_about button {
+        width: 180px;
+        height: 45px;
+    }
+
+    /* about section end */
+
+
+
+
+    /* gallery start */
+    .gallery {
+        margin-bottom: 40px;
+    }
+
+    .navtab ul {
+        margin-left: -6px;
+    }
+
+    /* gallery end */
+
+
+
+
+    /* choose nipro start */
+    .choose_row {
+        margin: 50px 0px;
+    }
+
+    .choose_icon i {
+        font-size: 45px;
+    }
+
+    .choose_text h2 {
+        font-size: 16px;
+    }
+
+    .choose_paragraph {
+        margin: 25px 0px 40px 0px;
+    }
+
+    .mb_choose {
+        margin-bottom: 15px;
+    }
+
+    .m_choose {
+        margin-bottom: 15px;
+    }
+
+    /* choose nipro end */
+
+
+
+
+    /* work people start */
+    .all_people_row {
+        margin: 50px 0px;
+    }
+
+    /* work people end */
+
+
+
+
+
+    /* pricing start */
+    .single_pricing_row {
+        margin: 55px 0px;
+    }
+
+    .single_content_pricing h3 {
+        font-size: 16px;
+    }
+
+    .dolar {
+        font-size: 24px;
+    }
+
+    /* pricing end */
+
+
+
+
+    /* nipro template start */
+    .template {
+        padding: 10px;
+    }
+
+    .template p {
+        font-size: 16px;
+    }
+
+    .template button {
+        width: 188px;
+        height: 40px;
+    }
+
+    /* nipro template end */
+
+
+
+
+
+
+    /* eco-founder section start */
+    .eco_img img {
+        width: 100%;
+    }
+
+    .eco_icon {
+        position: absolute;
+        margin-top: -300px;
+        margin-left: 20px;
+    }
+
+    .eco_content {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+
+
+    /* eco-founder prev next start */
+    .enext_prev p {
+        writing-mode: horizontal-tb;
+    }
+
+    .enext_prev {
+        display: flex;
+        margin: 0px -12px;
+        padding: 10px 30px 10px 30px;
+    }
+
+    .enext_prev button {
+        background-color: #f8f8f8;
+        transform: rotate(0deg);
+        text-align: center;
+    }
+
+    .eequal_sign {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 80px;
+        margin-right: 80px;
+
+    }
+
+    /* eco-founder prev next end */
+    /* eco-founder section end */
+
+
+
+
+    /* contact section start */
+    .contact_section {
+        margin: 80px 0px;
+    }
+
+    .contact_head h3 {
+        font-size: 20px;
+    }
+
+    .contact_head {
+        margin-left: 78px;
+        margin-top: -23px;
+    }
+
+    .contact {
+        padding: 40px 10px 30px 10px;
+    }
+
+    .submit button {
+        width: 188px;
+        height: 40px;
+    }
+
+    /* contact section end */
+
+
+
+
+
+    /* nipro agency start */
+    .nipro_icon ul li a i {
+        padding: 5px 5px;
+        font-size: 16px;
+    }
+
+    .line {
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+
+    .footer ul {
+        display: block;
+        text-align: start;
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+
+    .footer ul li {
+        display: block;
+    }
+
+    /* nipro agency end */
+
+
+}
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* header start */
+    header {
+        padding: 5px 0px;
+    }
+
+    .dropdown-menu[data-bs-popper] {
+        top: -3px;
+        left: 79px;
+        margin-top: 0px;
+    }
+
+    .form-control {
+        height: 35px;
+    }
+
+    .bt {
+        height: 35px;
+    }
+
+    .sddm {
+        --bs-dropdown-padding-y: 5px;
+    }
+
+    /* header end */
+
+
+
+
+    /* slider start */
+    .c_slider {
+        margin: 100px 0px
+    }
+
+    .c_slider h1 {
+        font-size: 30px;
+    }
+
+    .c_slider p {
+        margin: 30px 0px 40px;
+        line-height: 24px;
+    }
+
+    .c_slider button {
+        width: 150px;
+        height: 40px;
+    }
+
+    /* slider end */
+
+
+
+
+    /* service start */
+    .c_style {
+        height: 40px;
+        margin-bottom: 13px;
+    }
+
+    .c_h1 {
+        font-size: 25px;
+    }
+
+    /* service  end */
+
+
+
+
+    /* single service start */
+    .service {
+        padding-bottom: 60px;
+    }
+
+    .s_icon {
+        width: 65px;
+        margin: -21px auto 17px;
+        background-color: white;
+    }
+
+    .s_service {
+        margin-top: 60px;
+        padding: 0px 15px 30px;
+    }
+
+    /* single service end */
+
+
+
+
+    /* about section start */
+    .about {
+        padding-bottom: 60px;
+    }
+
+    .s_about {
+        text-align: center;
+    }
+
+    .about_img img {
+        width: 100%;
+    }
+
+    .s_about h1 {
+        font-size: 25px;
+    }
+
+    .s_about p {
+        margin: 30px 0px 40px;
+    }
+
+    /* about section end */
+
+
+
+
+
+    /* gallery start */
+    .gallery {
+        margin-bottom: 50px;
+    }
+
+    .navtab ul {
+        margin-left: -11px;
+    }
+
+    /* gallery end */
+
+
+
+
+    /* choose nipro start */
+    .choose_row {
+        margin: 65px 0px;
+    }
+
+    .choose_icon i {
+        font-size: 45px;
+    }
+
+    .choose_text h2 {
+        font-size: 16px;
+    }
+
+    .choose_paragraph {
+        margin: 25px 0px 40px 0px;
+    }
+
+    .mb_choose {
+        margin-bottom: 20px;
+    }
+
+    /* choose nipro end */
+
+
+
+
+    /* work  people start */
+    .all_people_row {
+        margin: 50px 0px;
+    }
+
+    /* work  people end */
+
+
+
+
+    /* pricing start */
+    .single_pricing_row {
+        margin: 60px 0px;
+    }
+
+    .dolar {
+        font-size: 25px;
+    }
+
+    .single_content_pricing button {
+        width: 180px;
+        height: 45px;
+        margin-top: 20px;
+    }
+
+    /* pricing end */
+
+
+
+
+
+    /* nipro template start */
+    .template {
+        padding: 10px;
+    }
+
+    .template p {
+        font-size: 16px;
+    }
+
+    .template button {
+        width: 140px;
+        height: 45px;
+    }
+
+    /* nipro template end */
+
+
+
+
+
+    /* eco-founder section start */
+    .eco_img_icon {
+        display: none;
+    }
+
+    /* eco-founder prev next start */
+    .enext_prev {
+        padding: 75px 0px;
+        margin-left: 0px;
+        margin-right: 7px;
+    }
+
+    /* eco-founder prev next end */
+    /* eco-founder section end */
+
+
+
+
+    /* contact section start */
+    .contact_head {
+        margin-left: 160px;
+    }
+
+    .contact {
+        padding: 60px 60px 30px 60px;
+    }
+
+    /* contact section start */
+
+
+
+
+
+    /* nipro agency and footer start */
+    .nipro_icon ul li a i {
+        padding: 5px 5px;
+        font-size: 16px;
+    }
+
+    .line {
+        margin-top: 50px;
+        margin-bottom: 15px;
+    }
+
+    .footer ul {
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+
+    /* nipro agency and footer end */
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* header start */
+    header {
+        padding: 10px 0px;
+    }
+
+    .dropdown-menu[data-bs-popper] {
+        top: -7px;
+        left: 81px;
+        margin-top: 0px;
+    }
+
+    /* header end */
+
+
+
+
+
+    /* slider start */
+    .c_slider {
+        margin: 120px 0px
+    }
+
+    .c_style {
+        margin-bottom: 12px;
+    }
+
+    .c_slider h1 {
+        font-size: 30px;
+    }
+
+    .c_slider p {
+        margin: 30px 0px 45px;
+    }
+
+    .c_slider button {
+        width: 150px;
+        height: 40px;
+    }
+
+    /* slider end */
+
+
+
+
+
+    /* service start */
+    .c_style {
+        height: 40px;
+        margin-bottom: 15px;
+    }
+
+    .c_style {
+        margin-bottom: 12px;
+    }
+
+    .c_h1 {
+        font-size: 28px;
+    }
+
+    /* service end */
+
+
+
+
+
+    /* single service start */
+    .service {
+        padding-bottom: 80px;
+    }
+
+    .s_icon {
+        width: 65px;
+        margin: -21px auto 17px;
+        background-color: white;
+    }
+
+    .s_service {
+        margin-top: 70px;
+        padding: 0px 15px 30px;
+    }
+
+    /* single service end */
+
+
+
+
+
+    /* about section start */
+    .about {
+        padding-bottom: 80px;
+    }
+
+    .about_img img {
+        display: none;
+    }
+
+    .s_about {
+        text-align: center;
+    }
+
+    .s_about p {
+        margin: 40px 0px;
+    }
+
+    /* about section end */
+
+
+
+
+
+    /* gallery section start */
+    .gallery {
+        margin-bottom: 50px;
+    }
+
+    /* gallery section end */
+
+
+
+
+
+    /* choose nipro start */
+    .choose_row {
+        margin: 65px 0px;
+    }
+
+    .mb_choose {
+        margin-bottom: 15px;
+    }
+
+    .choose_icon i {
+        font-size: 40px;
+    }
+
+    .choose_text h2 {
+        font-size: 16px;
+    }
+
+    .choose_paragraph {
+        margin: 25px 0px 35px 0px;
+    }
+
+    /* choose nipro end */
+
+
+
+
+
+    /* pricing start */
+    .single_pricing_row {
+        margin: 65px 0px;
+    }
+
+    .dolar {
+        font-size: 25px;
+    }
+
+    .single_content_pricing button {
+        width: 150px;
+        height: 45px;
+        margin-top: 20px;
+    }
+
+    .last_single_pricing {
+        display: hidden;
+    }
+
+    /* pricing end */
+
+
+
+
+    /* nipro template start */
+    .template button {
+        width: 150px;
+        height: 45px;
+    }
+
+    /* nipro template end */
+
+
+
+
+
+    /* eco-founder section start */
+    .eco_icon {
+        margin-top: -208px;
+        margin-left: 15px;
+    }
+
+    .elast_lorem {
+        display: none;
+    }
+
+    /* eco-founder prev next start */
+    .enext_prev {
+        margin: 0px -12px;
+    }
+
+    .eequal_sign {
+        margin-top: 60px;
+        margin-bottom: 75px;
+    }
+
+    /* eco-founder prev next end */
+    /* eco-founder section end */
+
+
+
+
+    /* contact section start */
+    .contact_head {
+        margin-left: 250px;
+    }
+
+    .contact {
+        padding: 60px 60px 30px 60px;
+    }
+
+    /* contact section start */
+
+
+
+
+    /* nipro agency and footer start */
+    .nipro_icon ul li a i {
+        padding: 5px 5px;
+        font-size: 16px;
+    }
+
+    .line {
+        margin-top: 60px;
+        margin-bottom: 15px;
+    }
+
+    .footer ul {
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+
+    /* nipro agency and footer end */
+}
+
+
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* slider start */
+    .c_slider {
+        margin: 150px 0px
+    }
+
+    .c_style {
+        margin-bottom: 13px;
+    }
+
+    .c_slider h1 {
+        font-size: 35px;
+    }
+
+    .c_slider p {
+        margin: 35px 0px 50px;
+        line-height: 24px;
+    }
+
+    /* slider end */
+
+
+
+
+    /* gallery start */
+    .navtab ul li {
+        margin-right: 17px;
+    }
+
+    /* gallery end */
+
+
+
+
+    /* pricing start */
+    .single_pricing_row {
+        margin: 55px 0px;
+    }
+
+    .dolar {
+        font-size: 25px;
+    }
+
+    .single_content_pricing button {
+        width: 150px;
+        height: 45px;
+        margin-top: 20px;
+    }
+
+    /* pricing end */
+
+
+
+
+
+    /* nipro template start */
+    .template button {
+        width: 180px;
+        height: 45px;
+    }
+
+    /* nipro template end */
+
+
+
+
+    /* eco founder start */
+    .eco_11 {
+        padding: 25px;
+    }
+
+    .enext_prev {
+        padding: 56px 0px;
+        margin-right: 0px;
+    }
+
+    .eequal_sign {
+        margin-left: 15px;
+    }
+
+    /* eco founder end */
+
+
+
+
+
+    /* contact section start */
+    .contact_head {
+        margin-left: 362px;
+    }
+
+    /* contact section start */
+
+}
+
+
+
+/* Extra large devices (extra large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* about section start */
+    .s_about p {
+        margin: 30px 0px 53px;
+    }
+
+    /* about section end */
+
+
+
+    /* eco-founder next previous start */
+    .next_prev {
+        padding: 45px 0px;
+        margin: 0px 5px;
+    }
+
+    /* eco-founder next previous end */
+
+
+
+
+    /* contact section start */
+    .contact_head {
+        margin-left: 440px;
+    }
+
+    /* contact section end */
+
+}
+
+
+
+/* media  Extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) and (max-width: 1699.98px) {
+
+
+    /* about section start */
+    .s_about p {
+        margin: 65px 0px;
+    }
+
+    /* about section end */
+
+
+
+
+    /* gallery start */
+    .navtab ul li {
+        margin-right: 21px;
+    }
+
+    /* gallery end */
+
+
+
+    /* eco founder start */
+    .eco_content {
+        margin-left: -80px
+    }
+
+    .enext_prev {
+        margin-right: 25px;
+    }
+
+    /* eco founder end */
+
+
+
+
+    /* contact section start */
+    .contact_head {
+        margin-left: 520px;
+        /* contact section end */
+    }
+
+
+    /*media  Extra large devices (extra large desktops, 1700px and up) */
+    @media (min-width: 1700px) and (max-width: 2099.98px) {}
+
+    /* media extra Extra large devices (extra extra large desktops, 2100px and up) */
+    @media (min-width: 2100px) {}
